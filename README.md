@@ -1,7 +1,4 @@
-
-VFPersonal by Dosyago
-
-# Banner Section
+# VFPersonal by Dosyago
 
 - Product overview
 - Social proof links
