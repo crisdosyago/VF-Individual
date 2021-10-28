@@ -1,2 +1,2 @@
 
-VF-Personal by Dosyago
+VFPersonal by Dosyago
