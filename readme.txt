@@ -2,7 +2,7 @@
 - Product overview
 - Social proof links
 
-Happy
+<a href=/>Happy</a>
 
 # Tiers
 
