@@ -1,4 +1,3 @@
-# VFPersonal by Dosyago
 
 - Product overview
 - Social proof links
