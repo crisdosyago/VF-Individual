@@ -181,7 +181,9 @@ A: It's all manual right now, so I will
 contact you as soon as I get email 
 confirmation of your subscription from
 Stripe, and I'll set it up for you in
-consultation with you from there.
+consultation with you from there. It
+should take about an hour from when you 
+and I first talk on email.
 
                 -*-
 
