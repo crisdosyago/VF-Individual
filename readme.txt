@@ -136,11 +136,53 @@ of access, and machine specs.
              Purchase
       https://buy.stype.com/
 
-# FAQ
+                FAQ
+                ===
 
-- FAQ 1
-- FAQ 2
-- More questions? DM on Twitter
+Q: How do I log in to my account?
+A: You use the credentials I gave you 
+when your machine was set up.
+
+Q: How long does my machine take to set
+up?
+A: It's all manual right now, so I will 
+contact you as soon as I get email 
+confirmation of your subscription from
+Stripe, and I'll set it up for you in
+consultation with you from there.
+
+Q: What kind of options can I customize
+in my browser and machine?
+A: I can set up a machine in a GCP 
+region that's as close to you as 
+possible to optimize latency. I'm also
+happy to customize the theme of the
+browser, but depending on complexity
+I may need to take time or give you a 
+quote.
+
+Q: What kind of other features can you
+build for me? 
+A: I'm happy to entertain your ideas
+and discuss with you about what's 
+possible, but it's likely that many
+features may require a lot of work that 
+I would invoice you for.
+
+Q: Where is your company based?
+A: The Dosyago Corporation is a US
+based Delaware C corporation.
+
+Q: Who are you?
+A: I'm Cris Stringfellow, I have a 
+GitHub profile you may be interested in
+looking at: 
+
+    https://github.com/i5ik
+
+    >>> More questions ? <<<
+    >>> DM me on Twitter <<<
+      >>> @DosyagoCorp <<<
 
 # Footer
 
