@@ -216,7 +216,10 @@ I would invoice you for.
 A: The Dosyago Corporation is a US
 based Delaware C corporation.
 
-Q: Who are you?
+                -*-
+
+  Q: Who are you?
+
 A: I'm Cris Stringfellow, I have a 
 GitHub profile you may be interested in
 looking at: 
