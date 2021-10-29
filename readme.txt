@@ -169,8 +169,8 @@ A: I need to wake up and get to your
 Stripe payment email. I'm only a 
 one-man-band at the moment, so I will 
 get to your new subscription as fast as
-I can. I'll reach out to you, and we'll 
-set up your machine.
+I can. I'll reach out to you ASAP, and 
+you and I will set up your machine.
 
                 -*-
 
@@ -195,8 +195,8 @@ region that's as close to you as
 possible to optimize latency. I'm also
 happy to customize the theme of the
 browser, but depending on complexity
-I may need to take time or give you a 
-quote.
+I may need to take some time or 
+provide you a quote.
 
                 -*-
 
