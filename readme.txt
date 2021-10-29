@@ -184,7 +184,8 @@ looking at:
     >>> DM me on Twitter <<<
       >>> @DosyagoCorp <<<
 
-# Footer
+            Legal & Other
+            =============
 
 All the bandwidth is bandwidth out of 
 your server (to you and to the web from
@@ -192,4 +193,11 @@ your remote browser).
 
 †No service on Sunday.
 
-- Legal and Other
+Privacy:  
+  https://dosyago.com/privacy.txt
+
+Terms:
+  https://dosyago.com/terms.txt
+
+Security:
+  https://dosyago.com/security.txt
