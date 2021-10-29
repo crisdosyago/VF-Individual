@@ -34,19 +34,107 @@ You use VFPersonal by subscribing.
 There are 5 tier personas with a range 
 of access, and machine specs.
 
-Tiers
------
+               Tiers
+               =====
 
 ~= Just Sampling Little Bit =~
 
+  Machine†:
+    Cores (vCPU):           1
+    RAM (GB):               3
+    Disk (GB):             32
+    Disk Type:            HDD 
+    Hours/day:            4.5
+    Data (GB)/month:       58
+
+  Support:
+    Email only (6 emails/month)
+
+    >>> Price: 30 USD/month <<<
+    * First month discount: $12 *
+
+             Purchase
+      https://buy.stype.com/
+
 ~= The Cost-conscious Worker Bee =~
+
+  Machine†:
+    Cores (vCPU):           6
+    RAM (GB):               8
+    Disk (GB):            100 
+    Disk Type:            SSD 
+    Hours/day:             12
+    Data (GB)/month:      424 
+
+  Support:
+    Email (10 emails/month)
+    Phone (1 hour/month)
+
+    >>> Price: 265 USD/month <<<
+    * First month discount: $76 *
+
+             Purchase
+      https://buy.stype.com/
 
 ~= Skilled Developer Wants High Spec =~
 
+  Machine:
+    Cores (vCPU):           8
+    RAM (GB):              16
+    Disk (GB):            250 
+    Disk Type:            SSD 
+    Hours/day:             24 
+    Data (GB)/month:     1179 
+
+  Support:
+    No Email
+    Phone (1 hour/month)
+
+    >>> Price: 697 USD/month <<<
+    * First month discount: $190 *
+
+             Purchase
+      https://buy.stype.com/
+
 ~= Fast Cars Toy Boy Needs Support =~
+
+  Machine:
+    Cores (vCPU):          16
+    RAM (GB):              64
+    Disk (GB):           1000 
+    Disk Type:            SSD 
+    Hours/day:              3 
+    Data (GB)/month:     6259 
+
+  Support:
+    Email (15 emails/month)
+    Phone (4 hour/month)
+
+    >>> Price: 721 USD/month <<<
+    * First month discount: $32 *
+
+             Purchase
+      https://buy.stype.com/
 
 ~= "We're probably reselling this" =~
 
+  Machine:
+    Cores (vCPU):           8
+    RAM (GB):              16
+    Disk (GB):           1000 
+    Disk Type:            SSD 
+    Hours/day:             24 
+    Data (GB)/month:     1496 
+
+  Support:
+    Email (50 emails/month)
+    Phone (5 hour/month)
+
+    >>> Price: 1,067 USD/month <<<
+    * First month discount: $137 *
+
+             Purchase
+      https://buy.stype.com/
 
 # FAQ
 
@@ -55,5 +143,11 @@ Tiers
 - More questions? DM on Twitter
 
 # Footer
+
+All the bandwidth is bandwidth out of 
+your server (to you and to the web from
+your remote browser).
+
+†No service on Sunday.
 
 - Legal and Other
