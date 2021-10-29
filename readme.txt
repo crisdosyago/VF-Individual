@@ -37,7 +37,7 @@ of access, and machine specs.
                Tiers
                =====
 
-~= Just Sampling Little Bit =~
+    ~= Just Sampling Little Bit =~
 
   Machine†:
     Cores (vCPU):           1
@@ -59,7 +59,7 @@ of access, and machine specs.
       1st-Month Discount Code:
         LIVINGTHEDREAM2022
 
-~= The Cost-conscious Worker Bee =~
+  ~= The Cost-conscious Worker Bee =~
 
   Machine†:
     Cores (vCPU):           6
@@ -105,7 +105,7 @@ of access, and machine specs.
       1st-Month Discount Code:
            SPACEJACKET12
 
-~= Fast Cars Toy Boy Needs Support =~
+ ~= Fast Cars Toy Boy Needs Support =~
 
   Machine:
     Cores (vCPU):          16
@@ -128,7 +128,7 @@ of access, and machine specs.
       1st-Month Discount Code:
              APPLE893
 
-~= "We're probably reselling this" =~
+ ~= "We're probably reselling this" =~
 
   Machine:
     Cores (vCPU):           8
