@@ -1,0 +1,29 @@
+{
+  "name": "vfpersonal-site",
+  "version": "1.0.0",
+  "description": "WebSite for VF Personal product, a remote browser by the Dosyago Corporation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx serve -p 8080"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i5ik/VFPersonal.git"
+  },
+  "keywords": [
+    "vf-personal",
+    "rbi",
+    "remote-browser-isolation",
+    "privacy",
+    "security"
+  ],
+  "author": "@dosy",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/i5ik/VFPersonal/issues"
+  },
+  "homepage": "https://github.com/i5ik/VFPersonal#readme",
+  "devDependencies": {
+    "serve": "^12.0.1"
+  }
+}
