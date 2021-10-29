@@ -31,7 +31,7 @@ browser, which has been starred by more
 than 1,400 people on GitHub. 
 
 You use VFPersonal by subscribing. 
-There are 5 tier personas with a range 
+There are 5 persona tiers with a range 
 of access, and machine specs.
 
                Tiers
