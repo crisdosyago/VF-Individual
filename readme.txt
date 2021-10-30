@@ -75,7 +75,7 @@ of access, and machine specs.
     https://buy.stripe.com/dR615g7hL0Mjeek5kx
 
         1st-Month Discount Code:
-                 TBA
+              FRIENDS2022 
 
                -* OR *-
 
@@ -106,7 +106,7 @@ of access, and machine specs.
       https://buy.stripe.com/9AQcNYfOh2Ur5HOcN1
 
         1st-Month Discount Code:
-                 TBA
+             NEOTOKYO2025 
 
                -* OR *-
 
