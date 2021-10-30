@@ -71,18 +71,18 @@ of access, and machine specs.
       >>> Price: 15 USD/month <<<
     * First month discount: $2.50 *
 
-               Purchase
+             Purchase
     https://buy.stripe.com/dR615g7hL0Mjeek5kx
 
-        1st-Month Discount Code:
-              FRIENDS2022 
+      1st-Month Discount Code:
+            FRIENDS2022 
 
-               -* OR *-
+             -* OR *-
 
     >>> Price: 75 USD/half-year <<<
-          >>> 16.67% off <<<
+        >>> 16.67% off <<<
 
-           Purchase 6-months
+         Purchase 6-months
     https://buy.stripe.com/28o6pA9pTcv16LSdR2
 
   ~= The Cost-conscious Worker Bee =~
@@ -99,21 +99,21 @@ of access, and machine specs.
     Email (4 emails/month)
     Phone (10 mins/month)
 
-      >>> Price: 60 USD/month <<<
-      * First month discount: $8 *
+    >>> Price: 60 USD/month <<<
+    * First month discount: $8 *
 
-               Purchase
-      https://buy.stripe.com/9AQcNYfOh2Ur5HOcN1
+             Purchase
+    https://buy.stripe.com/9AQcNYfOh2Ur5HOcN1
 
-        1st-Month Discount Code:
-             NEOTOKYO2025 
+      1st-Month Discount Code:
+           NEOTOKYO2025 
 
-               -* OR *-
+             -* OR *-
 
     >>> Price: 315 USD/half-year <<<
-          >>> 12.5% off <<<
+         >>> 12.5% off <<<
 
-           Purchase 6-months
+         Purchase 6-months
       https://buy.stripe.com/5kAeW68lP66D3zG14i    
 
 ~= Skilled Developer Wants High Spec =~
