@@ -6,6 +6,9 @@
        | -=for personal use=- |
        `----------------------`
 
+VFPersonal is a range of bespoke 
+remote browsers, for personal use.
+
 VFPersonal lets you browse the web
 safely and securely without exposing
 your device to malware, ransomware,
@@ -289,3 +292,30 @@ Security:
   https://dosyago.com/security.txt
 
     (C) Dosyago Corporation, 2021
+
+          Bonus Section
+          =============
+
+              ~the~
+         ~=VF Personal=~
+       <<<Feature Roadmap>>>
+               ~*~
+
+
+        (not necessarily in 
+      strict chronological order)
+
+
+  - omnibox autocomplete
+  - skins
+  - darkmode skins
+  - bookmarks
+  - sort-of Chrome Extension API
+  - tor circuit
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+        ~=That's all Folks=~
+
+
