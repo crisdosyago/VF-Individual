@@ -59,47 +59,46 @@ of access, and machine specs.
 
   Machine†:
     Cores (vCPU):           1
-    RAM (GB):               3
-    Disk (GB):             32
-    Disk Type:            HDD 
-    Hours/day:            4.5
-    Data (GB)/month:       58
+    RAM (GB):               2
+    Disk (GB):             55
+    Disk Type:            SSD 
+    Hours/day:             24
+    Data (GB)/month:     2001
 
   Support:
-    Email only (6 emails/month)
+    Email only (3 emails/month)
 
-    >>> Price: 30 USD/month <<<
-    * First month discount: $12 *
+    >>> Price: 15 USD/month <<<
+  * First month discount: $2.50 *
 
              Purchase
-      https://buy.stripe.com/cN201c1Xrcv1c6c4gr
+      https://buy.stripe.com/TBA
 
       1st-Month Discount Code:
-        LIVINGTHEDREAM2022
+              TBA
 
   ~= The Cost-conscious Worker Bee =~
 
   Machine†:
-    Cores (vCPU):           6
+    Cores (vCPU):           4
     RAM (GB):               8
-    Disk (GB):            100 
+    Disk (GB):            160 
     Disk Type:            SSD 
-    Hours/day:             12
-    Data (GB)/month:      424 
+    Hours/day:             24
+    Data (GB)/month:     4200 
 
   Support:
-    Email (10 emails/month)
-    Phone (1 hour/month)
+    Email (4 emails/month)
+    Phone (10 mins/month)
 
-    >>> Price: 265 USD/month <<<
-    * First month discount: $76 *
+    >>> Price: 60 USD/month <<<
+    * First month discount: $8 *
 
              Purchase
-      https://buy.stripe.com/14k9BMeKddz52vC4go
+      https://buy.stripe.com/TBA
 
       1st-Month Discount Code:
-          TOPNOTCHCRIKEY51
-
+                TBA
 ~= Skilled Developer Wants High Spec =~
 
   Machine:
