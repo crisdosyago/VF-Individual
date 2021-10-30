@@ -11,9 +11,27 @@ safely and securely without exposing
 your device to malware, ransomware,
 or 0-day exploits.
 
-It also protects your privacy by hiding
-your IP address, GPS location, browser,
-and device from snooping.
+              Features
+              ========
+
+  - Adaptive streaming optimizes 
+    latency
+  - DevTools panel for remote
+    access to browser DevTools 
+  - Use from mobile or
+    destkop with any modern browser
+  - Built-in secure document viewier
+  - Built-in live co-browsing and chat
+    for collaboration
+  - Fully-encrypted 'pixels-only',
+    clientless RBI 
+
+              Overview
+              ========
+
+VFPersonal protects your privacy by 
+hiding your IP address, GPS location, 
+browser, and device.
 
 It also lets you securely view files 
 like PDF, DOCX, XLSX without down-
