@@ -1,15 +1,16 @@
-              VFPersonal 
-              ==========
-
+             VF Individual
+            ===============
+        (formerly "VFPersonal")
+        
        .----------------------.
        |A remote cloud browser|
-       | -=for personal use=- |
+       |-=for individual use=-|
        `----------------------`
 
-VFPersonal is a range of bespoke 
+VF Individual is a range of bespoke 
 remote browsers, for personal use.
 
-VFPersonal lets you browse the web
+VF Individual lets you browse the web
 safely and securely without exposing
 your device to malware, ransomware,
 or 0-day exploits.
@@ -28,11 +29,14 @@ or 0-day exploits.
     for collaboration
   - Fully-encrypted 'pixels-only',
     clientless RBI 
+  - Super fast networks and massive
+    bandwidth allowances
+  - High-value prices and flexible tiers
 
               Overview
               ========
 
-VFPersonal protects your privacy by 
+VF Individual protects your privacy by 
 hiding your IP address, GPS location, 
 browser, and device.
 
@@ -42,16 +46,16 @@ loading them onto your device, or
 exposing you to the viruses that can
 be embedded in them.
 
-VFPersonal is your own personal VPS
+VF Individual is your own personal VPS
 running the closed-source VF Pro remote
 browser. 
 
-VFPersonal is the advanced version of 
+VF Individual is the advanced version of 
 the open-source ViewFinder remote
 browser, which has been starred by more
 than 1,400 people on GitHub. 
 
-You use VFPersonal by subscribing. 
+You use VF Individual by subscribing. 
 There are 5 persona tiers with a range 
 of access, and machine specs.
 
@@ -297,7 +301,7 @@ Security:
           =============
 
               ~the~
-         ~=VF Personal=~
+         ~=VF Individual=~
        <<<Feature Roadmap>>>
                ~*~
 
@@ -312,6 +316,10 @@ Security:
   - bookmarks
   - sort-of Chrome Extension API
   - tor circuit
+  
+           See more at: 
+      
+      https://github.com/i5ik/Viewfinder#progress--roadmap
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
